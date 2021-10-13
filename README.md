@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natallia Kazheunikava</h1>
-<h4 align="center">A passionate junior frontend developer from Kirkland, WA</h4>
+<h4 align="center">A passionate junior frontend developer</h4>
 
 - 🌱 I’m currently learning **React, JS, HTMLS, CSS**
 
