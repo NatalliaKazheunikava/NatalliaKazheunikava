@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, JS, HTMLS, CSS**
 
-- 📫 How to reach me **NatalliaK.dev@gmail.com**
+- 📧 Reach out to me at **NatalliaK.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
