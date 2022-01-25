@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natallia Kazheunikava</h1>
 <h4 align="center">A passionate junior frontend developer</h4>
 
-- 🌱 I’m currently learning **React, JS, HTMLS, CSS**
+- 🌱 I’m currently learning **React, React Native, JS**
 
 - 📧 Reach out to me at **NatalliaK.dev@gmail.com**
 
